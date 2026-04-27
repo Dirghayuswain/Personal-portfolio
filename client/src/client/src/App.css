@@ -1,0 +1,5 @@
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f4f7f6; margin: 0; }
+.header { background: #282c34; color: white; padding: 4rem 2rem; text-align: center; }
+.project-grid { display: flex; gap: 20px; padding: 2rem; flex-wrap: wrap; justify-content: center; }
+.project-card { background: white; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+.tags span { background: #e1e1e1; padding: 4px 8px; margin: 4px; border-radius: 4px; font-size: 0.8rem; }
